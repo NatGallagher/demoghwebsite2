@@ -18,7 +18,7 @@ demo github website 2
 - https://github.com/NatGallagher/demoghwebsite2.git
 
 # website url
-- htpp://github.com
+- https://natgallagher.github.io/demoghwebsite2/
 
 # future improvements
 - add responsive navigation menu
